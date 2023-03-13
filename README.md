@@ -1,1 +1,1 @@
-# rsschool-cv
+https://polunekas.github.io/rsschool-cv/cv
