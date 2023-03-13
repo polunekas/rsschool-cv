@@ -27,3 +27,24 @@
 *2022 - 2023:* Sber
 
 **JavaScript, React Intern**
+
+## Education
+
+*2018 - 2024:* **Lomonosov Moscow State University**
+
+Chemistry Department
+
+*2022:* School 21 Programming School
+
+## Languages
+
+* Russian
+
+* English (B2)
+
+* Belarusian
+
+
+
+
+
