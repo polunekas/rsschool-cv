@@ -21,3 +21,9 @@
 ## Pet projects and code examples:
 
 [GitHub] (https://github.com/polunekas)
+
+## Experience
+
+*2022 - 2023:* Sber
+
+**JavaScript, React Intern**
