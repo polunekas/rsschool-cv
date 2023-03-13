@@ -18,3 +18,6 @@
 5. Git
 6. Figma
 
+## Pet projects and code examples:
+
+[GitHub] (https://github.com/polunekas)
